@@ -109,7 +109,7 @@ sudo apt-get update && sudo apt-get install --no-install-recommends --yes \
 
 ## Kurento Media Server 선정 이유
 
-Java API를 지원하고 무엇보다 "무료"이다.
+Java API를 지원하고 무엇보다 "무료"이다..
 
 
 
